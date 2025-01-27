@@ -5,3 +5,7 @@ Expectations:
 
 Will learn more about front-end development and database management
 Will be fun with the amount of creativity that is promised.
+
+*******************************************************************************************
+I agree that we will learn a lot about front-end development and database management.
+And I agree also that we can truly showcase out creativity as we go along with the course.
