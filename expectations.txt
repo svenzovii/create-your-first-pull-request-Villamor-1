@@ -4,4 +4,4 @@ CMSC 100 U1L
 Expectations:
 
 Will learn more about front-end development and database management
-Will be fun with the amount of creativity that is promised
+Will be fun with the amount of creativity that is promised.
